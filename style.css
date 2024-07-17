@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+body{
+    background:aqua;
+}
+.titels{
+    display: flex;
+    justify-content: center;
+    font-family: 'Brush Script MT', cursive;
+font-size: 100px;
+}
